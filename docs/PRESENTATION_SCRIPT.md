@@ -110,6 +110,13 @@
 
 **Demo opportunity:** *Show performance metrics or SHAP plots*
 
+**SHAP Analysis - Speaker Notes for Visualization:**
+When showing the real_shap_analysis.html chart, describe each panel:
+
+- **Panel 1 (Bar Chart):** "This shows absolute SHAP importance - Close_SPY dominates at 36%, meaning yesterday's closing price is by far the strongest predictor of tomorrow's opening."
+
+- **Panel 2 (Donut Chart):** "The pie chart visualizes how predictive power is distributed - notice the top 4 price features (Close, High, Open, Low) collectively account for 87% of the model's prediction strength."
+
 ---
 
 ## 🚀 SLIDE 7: Production System & Architecture (2 min)
