@@ -12,7 +12,7 @@
 - **Tanmayi Sattenapalli** - [@TanmayiS4](https://github.com/TanmayiS4) Sentiment Analysis, Model Evaluation & Documentation
 - **Aazel Tan** - [@aazeltan](https://github.com/AazelTan) Data Pipeline Integration, Experiment Design & Results Analysis
 - **Vaishnavi Mahajan** - [@Vaishh09](https://github.com/Vaishh09) Frontend Development, Visualization & UI/UX
-- **Sharon Liang** - [@shaaronl](https://github.com/shaaronl) Project Management, Architecture Design & Integration
+- **Sharon Liang** - [@shaaronl](https://github.com/shaaronl) Data Preprocessing, Feature Engineering, Model Development & Evaluation
 
 *Project completed as part of Breakthrough Tech AI Studio Program*
 
