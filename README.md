@@ -9,7 +9,7 @@
 
 - **Handsome Onojerame** - [@Honojerame](https://github.com/Honojerame) - Machine Learning Development, Model Training & Optimization
 - **Zunaira Rahat** - Data Preprocessing, Feature Engineering & EDA
-- **Tanmayi Sattenapalli** - Sentiment Analysis, Model Evaluation & Documentation
+- **Tanmayi Sattenapalli** - [@TanmayiS4](https://github.com/TanmayiS4) Sentiment Analysis, Model Evaluation & Documentation
 - **Aazel Tan** - Full-Stack Development, API Design & Testing
 - **Vaishnavi Mahajan** - [@Vaishh09](https://github.com/Vaishh09) Frontend Development, Visualization & UI/UX
 - **Sharon Liang** - Project Management, Architecture Design & Integration
