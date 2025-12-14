@@ -11,7 +11,7 @@
 - **Zunaira Rahat** - Data Preprocessing, Feature Engineering & EDA
 - **Tanmayi Sattenapalli** - Sentiment Analysis, Model Evaluation & Documentation
 - **Aazel Tan** - Full-Stack Development, API Design & Testing
-- **Vaishnavi Mahajan** - Frontend Development, Visualization & UI/UX
+- **Vaishnavi Mahajan** - [@Vaishh09] Frontend Development, Visualization & UI/UX
 - **Sharon Liang** - Project Management, Architecture Design & Integration
 
 *Project completed as part of Breakthrough Tech AI Studio Program*
