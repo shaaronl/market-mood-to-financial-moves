@@ -8,7 +8,7 @@
 ## 👥 Team Members
 
 - **Handsome Onojerame** - [@Honojerame](https://github.com/Honojerame) - Machine Learning Development, Model Training & Optimization
-- **Zunaira Rahat** - [@zunaira-r](https://github.com/zunaira-r) - Data Preprocessing, Feature Engineering & EDA
+- **Zunaira Rahat** - [@zunaira-r](https://github.com/zunaira-r) - Project Management, Data Preprocessing, Feature Engineering & EDA
 - **Tanmayi Sattenapalli** - [@TanmayiS4](https://github.com/TanmayiS4) Sentiment Analysis, Model Evaluation & Documentation
 - **Aazel Tan** - [@aazeltan](https://github.com/AazelTan) Data Pipeline Integration, Experiment Design & Results Analysis
 - **Vaishnavi Mahajan** - [@Vaishh09](https://github.com/Vaishh09) Frontend Development, Visualization & UI/UX
